@@ -1,0 +1,5 @@
+{
+  "name": "AI 教材轉換器 (AI Courseware Converter)",
+  "description": "一個智慧教材製作應用，可將純文字內容轉換為專業、排版精美的 PDF 文件。利用 AI 進行內容結構分析、智慧推薦圖片位置，並提供即時的 A4 版面預覽與互動式編輯功能。",
+  "requestFramePermissions": []
+}
